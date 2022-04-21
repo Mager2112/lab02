@@ -2,5 +2,7 @@
 using namespace std;
 int main()
 {
-cout<<"Hello, world!" <<endl;
+	string name;
+	cin >> name;
+        cou t<< "Hello, world! from" << name << endl;
 }
