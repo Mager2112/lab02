@@ -2,7 +2,7 @@
 int
 main()
 {
-  std::string name; //Имя пользователя
-  std::cin >> name; //Ввод
-  std::cout << "Hello, world! from" << name << endl; //Вывод
+  std::string name; //Имя пользователя.
+  std::cin >> name; //Ввод,
+  std::cout << "Hello, world! from" << name << endl; //Вывод.
 }
