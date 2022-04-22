@@ -165,3 +165,6 @@ git push --force origin patch2
 9) вдавливаем patch2 в master
 
 git merge patch2
+
+вторник 5-7
+пятница 9
